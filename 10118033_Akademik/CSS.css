@@ -1,0 +1,28 @@
+.Judul {
+	font-family		: Capture it;
+	font-size		: xx-large;
+}
+
+.Sub {
+	font-family		: handwriting-draft_free-version;
+}
+
+.li {
+	font-family		: Calibri;
+}
+
+.head {
+	font-family		: Sketch Block;
+	font-size		: x-large;
+}
+
+.cont {
+	font-family		: Karmatic Arcade;
+	font-size		: large;
+	text-decoration	: underline;
+}
+
+.Cop {
+	font-family		: Karmatic Arcade;
+	font-size		: small;
+}
